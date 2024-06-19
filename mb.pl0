@@ -1,0 +1,6 @@
+var a;
+begin
+a:=7;
+a-=3;
+write(a);
+end.

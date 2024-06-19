@@ -1,0 +1,6 @@
+var a;
+begin
+a:=1;
+a+=1;
+write(a);
+end.

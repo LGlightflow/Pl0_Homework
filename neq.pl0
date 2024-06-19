@@ -1,0 +1,5 @@
+int a;
+begin
+a:=10;
+if a<>2 then write(1);
+end.

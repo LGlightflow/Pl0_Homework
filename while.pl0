@@ -1,0 +1,9 @@
+var a;
+begin
+	a:=1;
+	while a<10 do
+	begin
+		write(a);
+		a:=a+1;
+	end;
+end.

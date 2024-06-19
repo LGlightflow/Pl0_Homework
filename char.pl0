@@ -1,0 +1,7 @@
+char a,b;
+begin
+a:='A';
+write(a);
+read(b);
+write(b);
+end.

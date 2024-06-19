@@ -1,0 +1,6 @@
+var a;
+begin
+a:=10;
+if a>1 then write(1)
+else write(0);
+end.

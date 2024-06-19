@@ -1,0 +1,18 @@
+Iput pl/0 file ?y
+0 int a,b;
+
+1 begin
+
+2 a:=10;
+
+4 a+=3;
+
+8 write(a);
+
+11 read(b);
+
+13 b:=b+a;
+
+17 write(b);
+
+20 end.

@@ -1,0 +1,9 @@
+int a,b;
+begin
+a:=10;
+a+=3;
+write(a);
+read(b);
+b:=b+a;
+write(b);
+end.
